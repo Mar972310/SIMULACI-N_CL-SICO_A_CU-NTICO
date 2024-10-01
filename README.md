@@ -30,7 +30,7 @@ En caso de no tenerlo siga los siguientes pasos:
 Para instalar la librería debe tener en cuenta estos pasos:
 1. Abra la carpeta en donde desea guardar la librería.
 2. De click derecho y seleccione la opción "Git Bash"
-3. Clone el repositorio utilizando el comando '[https://github.com/Mar972310/SIMULACION_CLASICO_A_CUANTICO_CNYT.git]'
+3. Clone el repositorio utilizando el comando 'https://github.com/Mar972310/SIMULACION_CLASICO_A_CUANTICO_CNYT.git'
 4. Ejecute la seccion que quiera compilar o todo el cuaderno.
 
 
